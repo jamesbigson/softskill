@@ -13,7 +13,6 @@ const Navbar = () => {
     { path: '/dashboard', label: 'Dashboard', icon: User },
     { path: '/modules', label: 'Learn', icon: BookOpen },
     { path: '/mock-interview', label: 'Interview', icon: MessageSquare },
-    { path: '/resume-builder', label: 'Resume', icon: FileText },
   ];
 
   return (

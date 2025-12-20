@@ -6,7 +6,7 @@ import Dashboard from './pages/Dashboard';
 import Module from './pages/Module';
 import MockInterview from './pages/MockInterview';
 
-import ResumeBuilder from './pages/ResumeBuilder';
+
 import Quiz from './pages/Quiz';
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/modules" element={<Module />} />
           <Route path="/mock-interview" element={<MockInterview />} />
-          <Route path="/resume-builder" element={<ResumeBuilder />} />
+
           <Route path="/quiz/:moduleId" element={<Quiz />} />
         </Routes>
       </div>
