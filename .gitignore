@@ -8,6 +8,7 @@
 
 /backend/venv
 /backend/venv311
+
 /backend/__pycache__
 
 /backend/gemma-2b-it.Q4_K_M.gguf
