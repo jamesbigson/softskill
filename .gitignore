@@ -12,6 +12,9 @@
 /backend/__pycache__
 
 /backend/gemma-2b-it.Q4_K_M.gguf
+*.gguf
+backend/*.gguf
+
 
 # testing
 /coverage
